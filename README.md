@@ -81,6 +81,8 @@ contract MyToken {
 
 -Build and deploy smart contracts
 
+-Understand Base ecosystem deeply
+
 
 
 
