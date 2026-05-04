@@ -2,6 +2,7 @@
 
 Exploring Web3 and building projects on the Base blockchain ecosystem. This repo includes smart contracts, deployments, and learning notes.
 
+
 ⚙️ Tech Stack
 
 -Solidity (Smart Contracts)
@@ -15,6 +16,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 -Remix IDE
 
 -Git & GitHub
+
 
 
 🚀 What I Am Doing
@@ -59,6 +61,7 @@ contract MyToken {
 -Explorer: https://basescan.org
 
 -RPC: https://mainnet.base.org
+
 
 🧪 How to Deploy
 
