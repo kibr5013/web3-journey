@@ -1,6 +1,6 @@
 #  Web3 Journey on Base — Building & Deploying Smart Contracts
 
-Exploring Web3 and building projects on the Base blockchain ecosystem. This repo includes smart contracts, deployments, and learning notes.
+Exploring Web3 and building projects on the Base blockchain ecosystem. This repo includes smart contracts, deployments, and learning notes a to z
 
 
 ⚙️ Tech Stack
