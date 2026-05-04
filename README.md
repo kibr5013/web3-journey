@@ -77,6 +77,8 @@ contract MyToken {
 
 📈 Goals
 
+-Learn Web3 fundamentals
+
 
 
 
