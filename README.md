@@ -75,6 +75,8 @@ contract MyToken {
 
 -Deploy contract
 
+-Done
+
 📈 Goals
 
 -Learn Web3 fundamentals
