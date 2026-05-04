@@ -38,4 +38,5 @@ contract MyToken {
 
 --------------------------------------------------------
 
+🔗 Base Network Details
 
