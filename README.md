@@ -91,7 +91,9 @@ contract MyToken {
 -🚧 In progress - Learning & building daily
 
 
--🙌 Author
+🙌 Author
+
+-Built as part of my Web3 learning journey on Base blockchain.
 
 
 
