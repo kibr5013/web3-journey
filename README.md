@@ -1,2 +1,3 @@
-# web3-journey   4
-Exploring Web3 and Base ecosystem world
+# Web3 Journey - Day 1
+
+Exploring the Base ecosystem and building smart contracts.
