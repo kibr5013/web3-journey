@@ -71,6 +71,8 @@ contract MyToken {
 
 -Compile using Solidity 0.8.20
 
+-Connect MetaMask (Base network)
+
 
 
 
