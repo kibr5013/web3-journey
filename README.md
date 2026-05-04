@@ -9,3 +9,6 @@ Base Blockchain
 MetaMask Wallet
 Remix IDE
 Git & GitHub
+
+🚀 What I Am Doing
+Writing and deploying smart contracts
