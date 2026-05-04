@@ -23,7 +23,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 -Writing and deploying smart contracts
 
--Learning how Base blockchain 
+-Learning how Base blockchain build
 
 -Connecting wallet with dApps
 
