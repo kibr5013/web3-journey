@@ -42,3 +42,5 @@ contract MyToken {
 -Network: Base Mainnet
 -Chain ID: 8453
 
+-Explorer: https://basescan.org
+
