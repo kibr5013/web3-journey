@@ -75,5 +75,9 @@ contract MyToken {
 
 -Deploy contract
 
+📈 Goals
+
+
+
 
 
