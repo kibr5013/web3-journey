@@ -39,4 +39,4 @@ contract MyToken {
 --------------------------------------------------------
 
 🔗 Base Network Details
-
+-Network: Base Mainnet
