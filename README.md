@@ -67,5 +67,9 @@ contract MyToken {
 
 -Open Remix IDE: https://remix.ethereum.org/
 
+-Paste smart contract
+
+
+
 
 
