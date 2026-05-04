@@ -73,7 +73,7 @@ contract MyToken {
 
 -Connect MetaMask (Base network)
 
-
+-Deploy contract
 
 
 
