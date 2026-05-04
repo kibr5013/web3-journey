@@ -11,7 +11,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 -Base Blockchain (Mainnet) 
 
--need some base eth in wallet
+-Need some base eth in wallet
 
 -MetaMask Wallet
 
