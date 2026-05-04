@@ -79,6 +79,8 @@ contract MyToken {
 
 -Learn Web3 fundamentals
 
+-Build and deploy smart contracts
+
 
 
 
