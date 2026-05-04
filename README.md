@@ -40,3 +40,5 @@ contract MyToken {
 
 🔗 Base Network Details
 -Network: Base Mainnet
+-Chain ID: 8453
+
