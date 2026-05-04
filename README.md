@@ -88,6 +88,8 @@ contract MyToken {
 
 📌 Status
 
+-🚧 In progress - Learning & building daily
+
 
 
 
