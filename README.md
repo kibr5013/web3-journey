@@ -69,6 +69,8 @@ contract MyToken {
 
 -Paste smart contract
 
+-Compile using Solidity 0.8.20
+
 
 
 
