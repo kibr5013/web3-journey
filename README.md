@@ -29,7 +29,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 -Connecting wallet with dApps
 
--Testing transactions on Base network
+-Testing transactions on Base network.
 
 
 
