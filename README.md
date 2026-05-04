@@ -21,7 +21,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 
 
-🚀 What I Am Doing
+🚀 What I Am Doing 
 
 -Writing and deploying smart contracts
 
