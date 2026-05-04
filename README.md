@@ -92,7 +92,7 @@ contract MyToken {
 
 📌 Status
 
-🚧 In progress - Learning & building daily
+🚧 In progress - Learning & building daily.
 
 
 🙌 Author
