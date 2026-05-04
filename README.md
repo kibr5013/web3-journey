@@ -87,7 +87,7 @@ contract MyToken {
 
 -Understand Base ecosystem deeply
 
--Complete Base Guild tasks
+-Complete Base Guild tasks.
 
 
 📌 Status
