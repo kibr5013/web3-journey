@@ -12,4 +12,6 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 🚀 What I Am Doing
 -Writing and deploying smart contracts
--https://chatgpt.com/c/69f84b47-9774-83e8-bf57-c1778c3520b0#:~:text=Learning%20how%20Base%20blockchain%20works
+-Learning how Base blockchain works
+-Connecting wallet with dApps
+-Testing transactions on Base network
