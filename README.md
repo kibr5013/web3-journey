@@ -60,5 +60,9 @@ contract MyToken {
 
 -RPC: https://mainnet.base.org
 
+🧪 How to Deploy
+
+-Open Remix IDE: https://remix.ethereum.org/
+
 
 
