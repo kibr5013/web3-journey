@@ -17,7 +17,7 @@ Exploring Web3 and building projects on the Base blockchain ecosystem. This repo
 
 -Remix IDE.
 
--Git & GitHub.
+-Git & GitHub..
 
 
 
